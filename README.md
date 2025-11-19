@@ -97,8 +97,8 @@ REST APIs
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/yourname/model-monitoring-mini
-cd model-monitoring-mini
+git clone https://github.com/rajeev2004/Model-Monitoring-System.git
+cd Model-Monitoring-System
 ```
 
 
