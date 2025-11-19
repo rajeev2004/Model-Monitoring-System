@@ -129,4 +129,4 @@ http://localhost:5173
 
 ## 🌍 Live Demo
 
-🔗 Live URL:
+🔗 Live URL: https://rajeev2004.github.io/Model-Monitoring-System/ 
