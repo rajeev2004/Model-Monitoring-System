@@ -1,5 +1,5 @@
 import axios from "axios";
-const base = import.meta.env.VITE_API_BASE || "http://localhost:5000";
+const base = import.meta.env.VITE_API_BASE || "https://model-monitoring-system.onrender.com";
 export const api = axios.create({ baseURL: base });
 
 export async function listModels() {
